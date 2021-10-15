@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ModernRIBs",
+        "repositoryURL": "https://github.com/DevYeom/ModernRIBs",
+        "state": {
+          "branch": null,
+          "revision": "5e0a67365a1fb18ca06b919dbf53608843ddc284",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
