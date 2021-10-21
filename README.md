@@ -1,4 +1,7 @@
-![FastCampus](https://soojin.ro/assets/posts/fastcampus-0.png)
+<a href="https://fastcampus.co.kr/dev_red_rsj?utm_source=soojin-github&utm_medium=readme&utm_campaign=soojin">
+  <img src="https://soojin.ro/assets/posts/fastcampus-0.png" />
+</a>
+
 <div align = "center">
   <a href="https://fastcampus.co.kr/dev_red_rsj?utm_source=soojin-github&utm_medium=readme&utm_campaign=soojin">
     <img src="https://img.shields.io/badge/강의-패스트캠퍼스-red?style=flat" />
