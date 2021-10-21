@@ -9,7 +9,7 @@
   <a href="https://github.com/nsoojin/MiniSuperApp-fastcampus">
     <img src="https://img.shields.io/badge/실습 프로젝트-미니슈퍼앱-378805?style=flat" />
   </a>
-  <a href="https://github.com/nsoojin/MiniSuperApp-fastcampus/discussions/categories/q-a">
+  <a href="https://github.com/nsoojin/MiniSuperApp-fastcampus/discussions/categories/아무-질문이나-환영합니다">
     <img src="https://img.shields.io/badge/질문-Q&A-ffda00?style=flat" />
   </a>
 </div>
